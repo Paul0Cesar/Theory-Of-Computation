@@ -1,0 +1,1 @@
+# Máquina de Turing Não Determinística (MTND) :computer::robot:
